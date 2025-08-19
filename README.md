@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Áliton Vieira
+# Áliton Vieira
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
