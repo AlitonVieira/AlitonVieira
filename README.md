@@ -18,6 +18,14 @@ Me chamo Áliton Vieira, tenho 26 anos, moro no Rio Grande do Sul e estou em tra
 />
 <img 
     align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
