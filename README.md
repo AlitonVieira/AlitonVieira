@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Áliton Vieira, tenho 26 anos, moro no Rio Grande do Sul e estou em transição de carreira para a área de desenvolvimento. Curso Análise e desenvolvimento de sistemas na Estácio e por vir da área comercial meu objetivo é solucionar dores através de Softwares. Compartilho um pouco da minha jornada no meu perfil do LinkedIn "[Áliton Vieira](https://www.linkedin.com/in/aliton-vieira)" .
+Me chamo Áliton Vieira, tenho 26 anos, moro no Rio Grande do Sul e estou em transição de carreira para a área de desenvolvimento. Curso Análise e desenvolvimento de sistemas na Estácio e por vir da área comercial meu objetivo é solucionar dores através de Softwares. Compartilho um pouco da minha jornada no meu perfil do LinkedIn [Áliton Vieira](https://www.linkedin.com/in/aliton-vieira).
 
 ---
 
